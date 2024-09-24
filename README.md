@@ -16,3 +16,4 @@
 - [3. 流程控制](http://mirdex.github.io/Python_20240812/3.%20流程控制_Q.slides.html)
 - [4. 資料結構](http://mirdex.github.io/Python_20240812/4.%20資料結構_Q.slides.html)
 - [5. 迴圈](http://mirdex.github.io/Python_20240812/5.%20迴圈_Q.slides.html)
+- [6. 補充 - 字串常搭配使用函數](http://mirdex.github.io/Python_20240812/5-1.%20補充%20-%20字串常搭配使用函數_Q.slides.html)
