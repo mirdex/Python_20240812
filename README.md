@@ -23,3 +23,4 @@
 - [10. 例外處理](http://mirdex.github.io/Python_20240812/9.%20例外處理.slides.html)
 - [11. 檔案處理](http://mirdex.github.io/Python_20240812/12.%20檔案處理_Q.slides.html)
 - [12. NumPy](http://mirdex.github.io/Python_20240812/13.%20NumPy_Q.slides.html)
+- [13. Pandas](http://mirdex.github.io/Python_20240812/14.%20Pandas_Q.slides.html)
